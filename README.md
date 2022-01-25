@@ -1,3 +1,3 @@
 <h1>Kör Topal</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kortopal&show_icons=true&theme=dark)](https://github.com/kortopal)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kortopal&show_icons=true&theme=onedark)](https://github.com/kortopal)

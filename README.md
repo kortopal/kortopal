@@ -5,5 +5,7 @@
   
   <br>
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kortopal&show_icons=true&theme=gruvbox)](https://github.com/kortopal) 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kortopal&show_icons=true&theme=gruvbox)](https://github.com/kortopal)
+
+  ![Alt Text](https://tenor.com/98m6.gif)
 </div>

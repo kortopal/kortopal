@@ -5,6 +5,6 @@
   
   <h3>Öne Çıkan Proje</h3>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kortopal&repo=11A&theme=gruvbox)](https://github.com/kortopal/11A)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kortopal&repo=11A&theme=gruvbox&show_icons=true)](https://github.com/kortopal/11A)
 </div>
 

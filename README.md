@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Kör Topal, Hoş Geldiniz!</h1>
+  <h1>Kör Topal, Selam!</h1>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kortopal&show_icons=true&theme=gruvbox&layout=compact)
   

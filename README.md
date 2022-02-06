@@ -3,5 +3,6 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kortopal&show_icons=true&theme=gruvbox&layout=compact)
   
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kortopal&repo=11A)](https://github.com/kortopal/11A)
 </div>
 

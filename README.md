@@ -6,5 +6,8 @@
   <h3>Öne Çıkan Proje</h3>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kortopal&repo=11A&theme=gruvbox)](https://github.com/kortopal/11A)
+
+  <br>
+  Copyright © 2022
 </div>
 
